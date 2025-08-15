@@ -2,7 +2,7 @@
   "name": "square-dashboard-html",
   "private": true,
   "scripts": {
-    "start": "http-server ./build -p $PORT -c-1"
+    "start": "node server.js"
   },
   "devDependencies": {
     "http-server": "^14.1.1"
